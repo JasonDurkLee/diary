@@ -1,2 +1,2 @@
-# diaryShit
+# diary
 日记啦，随笔记录一些日常
